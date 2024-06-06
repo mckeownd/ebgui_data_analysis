@@ -1,5 +1,5 @@
-This code analyses ebgui outputs for patients treated with LDR brachytherapy of the prostate (P) for dose metrics of interest.
-Median and interquartile ranges of metrics over patient cohorts taken and written to table. 
+These codes analyse ebgui outputs for patients treated with LDR brachytherapy of the prostate (P) and breast (B) for dose metrics of interest.
+Median and interquartile ranges of metrics over patient cohorts taken and written to tables. 
 Plots created for visual comparisons of dose metrics between simulated doses calculated through differing methodology (for the hypothesis of conducted research). 
 
 See for more information of conducted research:
