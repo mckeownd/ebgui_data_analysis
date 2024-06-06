@@ -1,10 +1,7 @@
 % plot Prostate dose metric differences MC TG43 and TG186
+% requires entering path to default ebgui repository or backup location for loc variable
 
-% Linux location
-loc2='C:\Users\mhilts-sa\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc\LocalState\rootfs\home\dakota_mckeown\eb_GUI\B_V90\';
-
-% Drive location
-%loc='H:\CCSI\PlanningModule\Brachy Projects\1. CIHR MDBC Collaboration\Breast Patients\';
+%eg where my files were backupped
 loc = 'C:\Users\dakot\Dropbox\Dakota\UBCO-Masters\Project\Breast Patients\';
 
 %preallocate arrays with n zeros
