@@ -1,7 +1,10 @@
 %FINAL PROSTATE TG43MC VS TG186MC
 clear all;close all;
 
-loc='H:\CCSI\PlanningModule\Brachy Projects\1. CIHR MDBC Collaboration\Prostate Patients\';
+%requires file path for ebgui outputs for loc variable
+
+%eg where my files were backupped
+loc='C:\Users\dakot\Dropbox\Dakota\UBCO-Masters\Project\Prostate Patients\';
 
 %PT0043 U_D1cc=0?
 noU=[8,11,12,16,27,29,31,43,49,54,57,58,59,72,73,75,79,83,84,90,91];
